@@ -1,0 +1,6 @@
+{
+  "name": "structured-query-utils",
+  "version": "1.0.0",
+  "description": "MarkLogic structured query conversion helper functions",
+  "repository": "https://github.com/joemfb/structured-query-utils.git"
+}
